@@ -1,4 +1,4 @@
-import plugin from '../plugin';
+import plugin from '../lib/plugin';
 import pluginTester from 'babel-plugin-tester';
 import path from 'path';
 
