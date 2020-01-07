@@ -1,5 +1,9 @@
 {
-  "plugins": [
-    "./src/plugin.js"
+  "presets": [
+    ["@babel/preset-env", {
+      "targets": {
+        "node": "current"
+      }
+    }]
   ]
 }
