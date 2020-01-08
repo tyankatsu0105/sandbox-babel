@@ -4,6 +4,5 @@ import path from 'path';
 
 pluginTester({
   plugin,
-  title: 'basic test',
   fixtures: path.resolve(__dirname, '__fixtures__'),
 });

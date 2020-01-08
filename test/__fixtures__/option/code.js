@@ -1,3 +1,3 @@
-if (__DEV__) {
+if (__hogehoge__) {
   console.log("this is development");
 }
